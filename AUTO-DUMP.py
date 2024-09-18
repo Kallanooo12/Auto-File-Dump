@@ -1,6 +1,6 @@
-#Sc Write By Ghost
-#Github: https://github.com/Ghost3987
-#Fb: https://www.facebook com/DBZ280
+#Sc Write By KALYAN
+#Fb: KALYAN KING
+#teligerm gurop https://t.me/KGF_TERMUX_TEAM
 import random,string,time,re,sys,os
 from concurrent.futures import ThreadPoolExecutor as tdp
 try:
